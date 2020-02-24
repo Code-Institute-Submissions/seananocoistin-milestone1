@@ -3,7 +3,7 @@
 
 (*For people who need to read this in English or in other languages, please use a web translation system such as translate.google.ie or https://www.bing.com/translator/ . The designer admits no responsibility for the quality of translation offered by those services. Any false interpretations created by an inaccurate translation by the web translation systems are the fault of those services and NOT of the designer.*)
 
-## Clár na n-ábhar
+## Menu
 * [Information](#information)
 * [Directions](#directions)
 * [Technologies](#technologies)
