@@ -1,46 +1,47 @@
 # Tomhaltoir.com
-> Suíomh gréasáin do dhaoine le Gaeilge ar mhaith leo táirgí agus seirbhísí a fháil i nGaeilge! Is féidir le daoine le Gaeilge ar mian leo earraí i nGaeilge a cheannach tuilleadh eolais faoi Chumann na dTomhaltóirí Gaeilge a fháil agus clárú leis an gcumann. Tá eolas ann do ghnólachtaí chun cuidiú leo tosú ar earraí agus seirbhísí a chur ar fáil i nGaeilge.
+> Website for people with the Irish language who like products and services in Irish. People who wish to purchase Irish language products can find more information about Cumann na Tomhaltóirí (Consumer Society) and register with the society here. There is helpful information here for businesses who wish to create products and offer services in Irish.
 
 (*For people who need to read this in English or in other languages, please use a web translation system such as translate.google.ie or https://www.bing.com/translator/ . The designer admits no responsibility for the quality of translation offered by those services. Any false interpretations created by an inaccurate translation by the web translation systems are the fault of those services and NOT of the designer.*)
 
 ## Clár na n-ábhar
-* [Faisnéis](#faisnéis)
-* [Gabhálacha](#gabhálacha)
-* [Teicneolaíochtaí](#teicneolaíochtaí)
-* [Sreangshamhlacha] (#sreangshamhlacha)
-* [Socrú](#socrú)
-* [Gnéithe](#gnéithe)
-* [Stádas](#stádas)
-* [Tinfeadh](#tinfeadh)
-* [Teagmháil](#teagmháil)
+* [Information](#information)
+* [Directions](#directions)
+* [Technologies](#technologies)
+* [Wireframes](#wireframes)
+* [Settings](#settings)
+* [Types](#types)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-## Faisnéis
-Is suíomh gréasáin é www.tomhaltoir.com do dhaoine ar mian leo táirgí agus seirbhísí a fháil i nGaeilge. Tá eolas faoin gCumann le fáil ar an leathanach "Maidir Linn". Tig le daoine clárú le Cumann na dTomhaltóirí Gaeilge ar an suíomh gréasáin. Tá eolas ann freisin i mBéarla (**"Information for Businesses"**) do ghnólachtaí ar mian leo comhairle a fháil faoi conas an Ghaeilge a bheith ina ngnó. 
+## Information
+Tomhaltoir.com is a website for people who wish to get products and services in Irish. There is information about the Society on the page “about us”. People can register with Cumann na dTomhaltóirí (Consumer Society) on the website. There is also English language information (**"Information for businesses"**) for businesses who want advice on how to make the Irish language part of their business. 
+ 
 
-## Gabhálacha
+## Directions
 ![Seo íomhá de www.tomhaltoir.com](http://www.tomhaltoir.com/assets/images/tomhaltoir.com%20screenshot.png)
 
-## Teicneolaíochtaí
-* Tá an suíomh gréasáin scríofa le HTML ⁊ CSS.
+## Technologies
+* The website is written with HTML & CSS. 
 * Bootstrap 4 https://getbootstrap.com/docs/4.4/getting-started/introduction/
 * Markup Validation Service https://validator.w3.org/
 * CSS Validator https://jigsaw.w3.org/css-validator/
 * HTML Formatter https://htmlformatter.com/
-* Google Fonts https://fonts.google.com/ - go sonrach Lato agus Oswald.
-* YouTube - tá físeán a foilsíodh ar YouTube leabaithe ar an leathanach baile.
-* Lean mé an dearadh ar an bhfíseán seo ar YouTube https://www.youtube.com/watch?v=9cKsq14Kfsw 
+* Google Fonts https://fonts.google.com/ - Specifically Lato & Oswald
+* YouTube - There is a YouTube video embedded on the homepage.
+* I followed the design of this video on YouTube. https://www.youtube.com/watch?v=9cKsq14Kfsw 
 
-## Sreangshamhlacha
-Féach ar na híomhánnna seo a leanas:
+## Wireframes
+Look at the following images :
 http://www.tomhaltoir.com/assets/images/wireframehome.png
 http://www.tomhaltoir.com/assets/images/wireframeball.png
 http://www.tomhaltoir.com/assets/images/wireframemaidir.png
 http://www.tomhaltoir.com/assets/images/wireframeinformation.png
 
-## Socrú
-Téigh chuig www.tomhaltoir.com chun an suíomh gréasáin a fheiceáil. Tá an suíomh gréasáin beo.
+## Settings
+Go to www.tomhaltoir.com  to see the website. The website is live.
 
-## Samplaí den chód
+## Code examples
 <div class="container">
         <picture>
             <source media="(min-width: 650px)" srcset="./assets/images/íomháarbarr1.png">
@@ -91,20 +92,20 @@ Téigh chuig www.tomhaltoir.com chun an suíomh gréasáin a fheiceáil. Tá an 
         </div>
     </div>
 
-## Gnéithe
-Tá carousel deas ar an leathanach baile. Tá eolas i mBéarla do ghnólachtaí.
-* Tá cnuasach íomhánna de tháirgí agus comharthaí i nGaeilge.
-* Tá foirm air chun clarú leis an gCumann.
+## Types
+There is a carousel on the homepage. There is information in English for businesses.
+* There is a collection of product images and signs in Irish.
+* There is a Society registration form.
 
-Nithe atá le déanamh fós:
-* Foirm chun taighde a dhéanamh
-* Tuilleadh íomhánna a chur air
+Other things that still need to be done.:
+* A form to do research
+* More images to be added
 
-## Stádas
-Tá an tionscadal: _in progress_, mar ba mhaith liom i bhfad níos mó leathanach agus feidhmeanna a chur leis.
+## Status
+The project is _in progress_ because I would like to add lots more pages and functions
 
-## Tinfeadh
-Fuair mé tinfeadh don tionscadal seo ón bhfíseán YouTube https://www.youtube.com/watch?v=9cKsq14Kfsw , bunaithe ar Bootstrap.
+## Inspiration
+I got the inspiration for this project from this video on YouTube https://www.youtube.com/watch?v=9cKsq14Kfsw , bunaithe ar Bootstrap.
 
-## Teagmháil
-Cruthaithe ag Seanán Ó Coistín [@seananocoistin](http://www.seanan.info/)
+## Contact
+Designed by Seanán Ó Coistín [@seananocoistin](http://www.seanan.info/)
