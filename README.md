@@ -50,8 +50,8 @@ Go to www.tomhaltoir.com  to see the website. The website is live.
             <img src="/assets/images/íomháarbarr1.png" style="width:auto;">
         </picture>
         <div class="text">
-            <h2>Cé sinne?</h2>
-            <p>Is eagraíocht neamhspleách, neamh-bhrabrúsach sinn atá ag feidhmiú ar son tomhaltóirí a bhfuil earraí agus freastal i nGaeilge ag teastáil uathu.</p>
+            <h2>Who are we?</h2>
+            <p>We are an independent, non-profit organisation who work on behalf of consumers who want goods and services through Irish.</p>
 
             <h2>Cad chuige Cumann na dTomhaltóirí Gaeilge?</h2> Is ar ghnó, tráchtáil, ceannach, agus gnóthaí tomhaltóirí amháin atá Cumann na dTomhaltóirí Gaeilge dírithe.</p>
             Níl aon bhaint ag Cumann na dTomhaltóirí Gaeilge le gnéithe eile de shaol na Gaeilge amhail an litríocht, oideachas, ceol, beartais rialtais, gnóthaí óige, agus araile. Tá eagraíochtaí eile ann faoi choinne na gnóthaí sin. Ní carthanas é Cumann na dTomhaltóirí Gaeilge agus níl baint ná ceangail againn le heagraíocht ar bith eile. Is i nGaeilge amháin a dhéanfar gnó an chumainn.
